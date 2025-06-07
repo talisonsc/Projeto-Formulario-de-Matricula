@@ -51,6 +51,6 @@ select {
   background: url(../../assets/icons/arrow-down-01.svg) no-repeat calc(100% - 1rem);
 }
 
-fieldset > div {
+.address .flex {
   gap: 1.25rem;
 }
